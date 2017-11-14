@@ -1,0 +1,3140 @@
+@media screen and (min-width:320px) and (max-width:767px){
+
+
+.right-line{
+	
+	border-right:.5px solid black;
+	border-color:gray;
+	height:30px;
+	
+	
+}
+.gray{
+	
+	color:#2E2E2E;
+	
+}
+
+.li-gray{
+	
+	
+	color:gray;
+}
+.no-padding{
+	padding:0;
+	margin:0;
+}
+.top{
+	
+	padding-top:.5%;
+	padding-bottom:.5%;
+	
+}
+
+.more-top{
+	
+	padding-top:1%;
+}
+
+.more-bottom{
+	
+	padding-bottom:1%;
+	
+}
+
+.more-top-bottom{
+	
+	padding-top:2%;
+	padding-bottom:2%;
+	
+}
+
+.info{
+	position:absolute;
+	top:.1px;
+	z-index:999;
+	background-color:rgba(255,255,255,.6);
+	
+	
+}
+
+.less-left{
+	
+	padding-left:3%;
+	
+}
+.left{
+	
+	padding-left:4%;
+	
+}
+
+
+
+header{
+	
+	position:absolute;
+	top:70px;
+	left:0;
+	width:100%;
+	background-color:transparent;
+	z-index:11;
+}
+
+
+
+header .main-menu{}
+header .logo{
+	
+	margin:5%;
+	padding-left:5%;
+}
+header .logo a{}
+
+header .main{}
+header .main ul{}
+header .main ul li{
+	
+
+display:block !important;
+
+	
+}
+header .main ul li a{
+	text-decoration:none;
+	
+}
+
+header .main ul li a:hover{
+	color:#373636;
+	
+}
+
+article{
+	
+	position:absolute;
+	top:0px;
+	left:0;
+	width:100%;
+	background-color:rgba(255,255,255,.6);
+	z-index:11;
+}
+
+
+article .information{}
+
+article .infor{}
+article .infor ul{}
+article .infor ul li{
+	
+	display:inline-block;
+	margin:1%;
+	
+}
+article .infor ul li a{
+	color:#2E2E2E;
+	
+	
+}
+
+article .infor ul li a:hover{
+	text-decoration:none;
+	color:red;
+	
+	
+}
+
+article span{
+	
+	padding-top:13%;
+	font-size:120%;
+	
+}
+
+
+.menu-bar-btn{
+	margin:0 !important;
+}
+
+.menu-bar-left-btn{
+	
+	padding:0 !important;
+	
+}
+.right{
+	padding-right:10%;
+	padding-top:4%;
+	
+	
+}
+
+
+.btn-danger{
+	
+	background-color:#DF0404;
+	border-color:#DF0404;
+	border-radius:50px;
+	
+}
+
+
+.bar2{
+    width: 35px;
+    height: 2px;
+    background-color: #333;
+    margin: 6px 0;
+    transition: 0.4s;
+}
+
+
+.bar1,.bar3 {
+    width: 25px;
+    height: 2px;
+    background-color: #333;
+    margin-left: 5px;
+    transition: 0.4s;
+	
+}
+
+.change .bar1 {
+    -webkit-transform: rotate(-45deg) translate(-6px, 6px) ;
+    transform: rotate(-45deg) translate(-6px, 3px) ;
+}
+
+.change .bar2 {opacity: 0;}
+
+.change .bar3 {
+    -webkit-transform: rotate(45deg) translate(-6px, -6px) ;
+    transform: rotate(45deg) translate(-6px, -6px) ;
+}
+
+
+.sliding h1{
+	
+	position:absolute;
+	top:250px !important;
+	left:40px;
+	color:#2E2E2E;
+	font-size:200%;
+	
+}
+.sliding p{
+	
+	position:absolute;
+	top:350px;
+	left:40px;
+	color:#424242;
+	font-size:85%;
+	
+}
+
+.sliding .slider-img{
+	
+	width:100%;
+	height:100vh;
+	min-height: 300px;
+	
+}
+.btn-defaul{
+	
+	
+	position:absolute;
+	top:430px;
+	left:40px;
+	border-radius:50px;
+	background-color:#DF0404;
+	border-color:#DF0404;
+	color:white;
+}
+
+
+.carousel-item {
+  height: 100vh;
+  min-height: 300px;
+  width:100% !important;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+
+
+/*say*/
+
+.say h2{
+	
+	color:#2E2E2E;
+}
+
+.say .line{
+	
+	border-bottom: 2px solid #DF0404;
+	width:40%;
+	
+}
+
+
+/*review*/
+
+.review .dark-gray{
+	
+	background-color:#292929;
+	
+}
+
+.review .light-gray{
+	
+	background-color:#878c88;	
+}
+
+.review img{
+	
+	width:100%;
+	height:100%;
+}
+
+.review .dark-red{
+	
+	background-color:#DF0404;
+	
+}
+
+.review h5{
+	
+	color:white;
+	padding-top:14%;
+	padding-bottom:6%;
+	
+}
+
+.review h6{
+	
+	color:white;
+	padding-left:2%;
+	padding-right:2%;
+	padding-bottom:10%;
+	
+}
+
+.absolute1{
+	
+	position:absolute;
+	top:6px;
+	left:50px;
+}
+
+
+.absolute2{
+	
+	position:absolute;
+	top:95px;
+	
+}
+
+/*plus*/
+
+.plus h1{
+	
+	position:static;
+	
+}
+
+.plus p{
+	
+	position:static;
+	
+}
+
+.plus button{
+	position:static;
+	
+	
+}
+.plus img{
+	
+	width:60%;
+}
+
+
+
+/*testimonial*/
+
+.testimonial{
+	
+	background-color:#f5f5f5;
+	padding-top:10%;
+}
+
+.testimonial img{
+	
+	width:80%;
+}
+
+.testimonial .dot{
+	
+	width:15%;
+	
+}
+
+.testimonial h1{
+	
+	position:static;
+	color:#666666;
+	font-size:180%;
+	padding-left:12%;
+	
+}
+
+.testimonial p{
+	
+	position:static;
+	padding-right:10%;
+	padding-left:10%;
+	font-size:70%;
+}
+
+.testimonial h6{
+	
+	
+	padding-left:10%;
+	
+}
+
+.testimonial{
+	
+	background-color:#f5f5f5;
+}
+/*blockquote*/
+
+blockquote {
+    font-family: Georgia, serif;
+    position: relative;
+    margin: 0.5em;
+  
+}
+
+blockquote:after {
+    font-family: Georgia, serif;
+    position: absolute;
+   /* display: block; don't use this, it raised the quote too high from the bottom - defeated line-height? */
+    float:left;
+    font-size:10em;
+    line-height: 1;
+    left:-23px;
+    bottom:-0.8em;
+    content: "\201D";
+	color:#cccccc;
+}
+blockquote footer {
+    padding: 0 2em 0 0;
+    text-align:right;
+}
+blockquote cite:before {
+    content: "\2013";
+}
+
+/*carousol */
+
+
+
+.mySlides {display:none}
+.w3-left, .w3-right, .w3-badge {cursor:pointer}
+.w3-badge {height:13px;width:13px;padding:0}
+
+.slider-width{
+	
+	
+	max-width:800px;
+}
+
+
+
+/*headline*/
+
+.headline{
+	
+	padding-top:15%;
+	padding-bottom:5%;
+}
+
+
+.headline h6{
+	
+	color:gray;
+	text-align:center;
+	
+	
+}
+
+.headline .btn-defaul{
+	position:static;
+	border-radius:50px;
+	background-color:#DF0404;
+	border-color:#DF0404;
+	color:white;
+	
+}
+
+/*table*/
+
+
+.table-scroll{
+	
+	overflow: scroll;
+    overflow-x: hidden!important;
+	height:330px;
+	width:100%;
+	
+}
+
+
+.table-height{
+	
+	
+	height:330px;
+	width:100%;
+	
+}
+
+.table .table-img{
+	
+	height:50vh;
+	width:100%;
+	
+}
+.table .overlay-2 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    opacity: .5;
+}
+
+.table .dark-gray{
+	
+	background-color:#292929;
+	
+}
+.table .bg{
+	
+	background-color:#292929;
+	
+}
+
+.table h2{
+	
+	color:gray;
+	margin:10%;
+	font-size:250%;
+}
+
+
+.table h5{
+	
+	color:red;
+	padding-top:1%;
+}
+.table h6{
+	
+	color:white;
+	padding-bottom:4% !important;
+	font-size:85%;
+}
+
+.table .line{
+	
+	border-bottom:1px solid gray;
+	width:100%;
+}
+.table .left-right{
+	
+	padding-left:5%;
+	padding-right:5%;
+}
+
+.table .dark-gray .button-scroll {
+    margin-left: -30px;
+    margin-right: -30px;
+	
+}
+
+.table .dark-gray .button-scroll .btn {
+    border-radius: 0px; 
+}
+
+.table .dark-gray .button-scroll .left-btn {
+    width: 49%;
+}
+
+.table .dark-gray .button-scroll .right-btn {
+    width: 49%;
+    margin-left: 2%;
+}
+
+#project {
+    margin-bottom: 30px;
+}
+
+#project .project_menu {
+    margin-top: 30px;
+}
+
+#project img{
+	
+	height:100%;
+	width:100%;
+	padding-bottom:10%;
+}
+
+#project .project_menu a {
+    color: #878c88;
+    text-decoration: none;
+}
+
+#project .project_menu .button_project {
+    border-radius: 20px;
+    background-color: #DF0404;
+    border: none;
+}
+
+#project .project_img_thumb {
+    margin-top: 10px; 
+}
+
+#top-footer {
+    width: 100%;
+    padding: 40px 20px;
+    background-color: #212121;
+}
+
+#top-footer .block_one {
+    border-right: 1px solid #212121;
+}
+
+#top-footer .block_one img {
+    margin-top:5%; 
+}
+
+#top-footer .block_one h5 {
+    margin-top: 8%;
+    font-size: 95%;
+    color: #ADADAD;
+}
+
+#top-footer .block_one span {
+    color: #DF0404;
+}
+
+#top-footer .block_one ul li {
+    margin-top: 10%;
+    margin-left: -40px;
+    list-style-type: none;
+    line-height: 20px;
+    color: #ADADAD;
+}
+
+#top-footer .block_two {
+    border-right: 1px solid #212121;
+	padding-top:2%;
+}
+
+#top-footer .block_two h4 {
+    margin-top: 10px;
+    font-size: 140%;
+    color: #ADADAD;
+	padding-bottom:2%;
+	
+}
+
+#top-footer .block_two h5 {
+    margin-top: 9%;
+    font-size: 85%;
+    color: #ADADAD;
+}
+
+#top-footer .block_three {
+    border-right: 1px solid #212121;
+    margin-left: 20px;
+	padding-top:2%;
+}
+
+#top-footer .block_three h4 {
+    margin-top: 4%;
+    font-size: 140%;
+    color: #ADADAD;
+	padding-bottom:5%;
+}
+
+#top-footer .block_three ul li {
+    list-style-type: none;
+    margin-top: 8%;
+    margin-left: -40px;
+    font-size: 85%;
+    line-height: 10px;
+    color: #ADADAD;
+}
+
+#top-footer .block_four {
+    margin-right: 10px;
+    margin-left: 10px;
+	padding-top:1.8%;
+}
+
+#top-footer .block_four h4 {
+    margin-top: 9%;
+    font-size: 140%;
+    color: #ADADAD;
+	padding-bottom:10%;
+}
+
+#top-footer .block_four .form-control {
+    background-color:#333333;
+	color:#4d4d4d;
+	border:none;
+	width:100%;
+	
+}
+
+
+#top-footer .block_four .btn-primary {
+    border-radius:50px;
+	background-color:#DF0404;
+	border-color:#DF0404;
+	color:white;
+}
+
+
+
+#bottom-footer {
+    width: 100%;
+	height:100%;
+    padding: 5px 5px;
+    background-color: #252324;
+    text-align:center !important;
+}
+
+#bottom-footer .left_cp {
+    font-size: 85%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: #ADADAD;
+}
+
+/* Bottom footer social icons */
+#bottom-footer .fa {
+    padding: 12px;
+    font-size: 15px;
+    width: 38px;
+    text-align: center;
+    text-decoration: none;
+    margin: 8px 3px;
+    border-radius: 50%;
+	margin-right:8%;
+	
+}
+
+#bottom-footer .fa:hover {
+    opacity: 0.7;
+}
+
+#bottom-footer .fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+#bottom-footer .fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+
+
+#bottom-footer .fa-pinterest {
+  background: #cb2027;
+  color: white;
+}
+
+
+
+#bottom-footer .fa-dribbble {
+  background: #ea4c89;
+  color: white;
+}
+	
+	
+}
+
+@media screen and (min-width:450px) and (max-width:500px){
+	
+.right{
+	
+	padding-top:2%;
+	
+	
+}
+	
+
+header .main ul li{
+	
+
+display:block !important;
+
+	
+}
+
+header .logo{
+	
+	margin:5%;
+	padding-left:25%;
+}
+.menu-bar-btn{
+	margin-left:-10% !important;
+}
+
+.menu-bar-left-btn{
+	
+	padding:0 !important;
+	
+}	
+.sliding h1{
+	
+	position:absolute;
+	top:250px !important;
+	left:80px;
+	color:#2E2E2E;
+	font-size:230%;
+	
+}
+.sliding p{
+	
+	position:absolute;
+	top:350px;
+	left:80px;
+	color:#424242;
+	font-size:90%;
+	
+}
+.btn-defaul{
+	
+	
+	position:absolute;
+	top:430px;
+	left:80px;
+	border-radius:50px;
+	background-color:#DF0404;
+	border-color:#DF0404;
+	color:white;
+}
+
+.absolute1{
+	
+	position:absolute;
+	top:30px;
+	left:120px;
+}
+
+
+.absolute2{
+	
+	position:absolute;
+	top:150px;
+	padding-right:5%;
+	padding-left:5%;
+	
+}	
+
+
+
+/*plus*/
+
+.plus h1{
+	
+	position:static;
+	
+}
+
+.plus p{
+	
+	position:static;
+	
+}
+
+.plus button{
+	position:static;
+	
+	
+}
+.plus img{
+	padding-top:10%;
+	width:70%;
+}
+
+/*testimonial*/
+
+.testimonial{
+	
+	background-color:#f5f5f5;
+	padding-top:10%;
+}
+
+.testimonial img{
+	
+	width:80%;
+}
+
+.testimonial .dot{
+	
+	width:15%;
+	
+}
+
+.testimonial h1{
+	
+	position:static;
+	color:#666666;
+	font-size:190%;
+	padding-left:11%;
+	
+}
+
+.testimonial p{
+	
+	position:static;
+	padding-right:10%;
+	padding-left:10%;
+	font-size:90%;
+}
+
+.testimonial h6{
+	
+	
+	padding-left:10%;
+	
+}
+
+.testimonial{
+	
+	background-color:#f5f5f5;
+}
+/*blockquote*/
+
+blockquote {
+    font-family: Georgia, serif;
+    position: relative;
+    margin: 0.5em;
+  
+}
+
+blockquote:after {
+    font-family: Georgia, serif;
+    position: absolute;
+   /* display: block; don't use this, it raised the quote too high from the bottom - defeated line-height? */
+    float:left;
+    font-size:10em;
+    line-height: 1;
+    left:-14px;
+    bottom:-0.8em;
+    content: "\201D";
+	color:#cccccc;
+}
+blockquote footer {
+    padding: 0 2em 0 0;
+    text-align:right;
+}
+blockquote cite:before {
+    content: "\2013";
+}
+
+/* Bottom footer social icons */
+#bottom-footer .fa {
+    padding: 12px;
+    font-size: 15px;
+    width: 38px;
+    text-align: center;
+    text-decoration: none;
+    margin: 8px 3px;
+    border-radius: 50%;
+	margin-right:11%;
+	
+}
+	
+}
+
+@media screen and (min-width:501px) and (max-width:550px){
+	
+
+	
+.right{
+	
+	padding-top:2%;
+	
+	
+}
+
+.headline{
+	
+	padding-top:10%;
+}
+	
+	
+header .main ul li{
+	
+
+display:block !important;
+
+	
+}
+
+header .logo{
+	
+	margin:5%;
+	padding-left:35%;
+}
+.menu-bar-btn{
+	margin-left:-20% !important;
+}
+
+.menu-bar-left-btn{
+	
+	padding:0 !important;
+	
+}	
+.sliding h1{
+	
+	position:absolute;
+	top:250px !important;
+	left:100px;
+	color:#2E2E2E;
+	font-size:230%;
+	
+}
+.sliding p{
+	
+	position:absolute;
+	top:350px;
+	left:100px;
+	color:#424242;
+	font-size:90%;
+	
+}
+.btn-defaul{
+	
+	
+	position:absolute;
+	top:430px;
+	left:100px;
+	border-radius:50px;
+	background-color:#DF0404;
+	border-color:#DF0404;
+	color:white;
+}
+
+.absolute1{
+	
+	position:absolute;
+	top:40px;
+	left:140px;
+}
+
+
+.absolute2{
+	
+	position:absolute;
+	top:170px;
+	padding-right:5%;
+	padding-left:5%;
+	
+}	
+
+
+
+/*plus*/
+
+.plus h1{
+	
+	position:static;
+	
+}
+
+.plus p{
+	
+	position:static;
+	
+}
+
+.plus button{
+	position:static;
+	
+	
+}
+.plus img{
+	padding-top:10%;
+	width:70%;
+}
+
+/*testimonial*/
+
+.testimonial{
+	
+	background-color:#f5f5f5;
+	padding-top:10%;
+}
+
+.testimonial img{
+	
+	width:80%;
+}
+
+.testimonial .dot{
+	
+	width:15%;
+	
+}
+
+.testimonial h1{
+	
+	position:static;
+	color:#666666;
+	font-size:190%;
+	padding-left:11%;
+	
+}
+
+.testimonial p{
+	
+	position:static;
+	padding-right:10%;
+	padding-left:10%;
+	font-size:90%;
+}
+
+.testimonial h6{
+	
+	
+	padding-left:10%;
+	
+}
+
+.testimonial{
+	
+	background-color:#f5f5f5;
+}
+/*blockquote*/
+
+blockquote {
+    font-family: Georgia, serif;
+    position: relative;
+    margin: 0.5em;
+  
+}
+
+blockquote:after {
+    font-family: Georgia, serif;
+    position: absolute;
+   /* display: block; don't use this, it raised the quote too high from the bottom - defeated line-height? */
+    float:left;
+    font-size:10em;
+    line-height: 1;
+    left:-8px;
+    bottom:-0.8em;
+    content: "\201D";
+	color:#cccccc;
+}
+blockquote footer {
+    padding: 0 2em 0 0;
+    text-align:right;
+}
+blockquote cite:before {
+    content: "\2013";
+}
+
+/* Bottom footer social icons */
+#bottom-footer .fa {
+    padding: 12px;
+    font-size: 15px;
+    width: 38px;
+    text-align: center;
+    text-decoration: none;
+    margin: 8px 3px;
+    border-radius: 50%;
+	margin-right:13%;
+	
+}
+	
+}
+
+@media screen and (min-width:551px) and (max-width:575px){
+.right{
+	
+	padding-top:2%;
+	
+	
+}
+
+.headline{
+	
+	padding-top:8%;
+}
+	
+header .main ul li{
+	
+
+display:block !important;
+
+	
+}
+
+header .logo{
+	
+	margin:5%;
+	padding-left:40%;
+}
+.menu-bar-btn{
+	margin-left:-42% !important;
+}
+
+.menu-bar-left-btn{
+	
+	padding:0 !important;
+	
+}	
+.sliding h1{
+	
+	position:absolute;
+	top:250px !important;
+	left:120px;
+	color:#2E2E2E;
+	font-size:250%;
+	
+}
+.sliding p{
+	
+	position:absolute;
+	top:370px;
+	left:120px;
+	color:#424242;
+	font-size:100%;
+	
+}
+.btn-defaul{
+	
+	
+	position:absolute;
+	top:450px;
+	left:120px;
+	border-radius:50px;
+	background-color:#DF0404;
+	border-color:#DF0404;
+	color:white;
+}
+
+.absolute1{
+	
+	position:absolute;
+	top:50px;
+	left:160px;
+}
+
+
+.absolute2{
+	
+	position:absolute;
+	top:200px;
+	padding-right:5%;
+	padding-left:5%;
+	
+}	
+
+/*plus*/
+
+.plus h1{
+	
+	position:static;
+	
+}
+
+.plus p{
+	
+	position:static;
+	
+}
+
+.plus button{
+	position:static;
+	
+	
+}
+.plus img{
+	padding-top:10%;
+	width:70%;
+}
+
+/*testimonial*/
+
+.testimonial{
+	
+	background-color:#f5f5f5;
+	padding-top:10%;
+}
+
+.testimonial img{
+	
+	width:80%;
+}
+
+.testimonial .dot{
+	
+	width:15%;
+	
+}
+
+.testimonial h1{
+	
+	position:static;
+	color:#666666;
+	font-size:190%;
+	padding-left:11%;
+	
+}
+
+.testimonial p{
+	
+	position:static;
+	padding-right:10%;
+	padding-left:10%;
+	font-size:90%;
+}
+
+.testimonial h6{
+	
+	
+	padding-left:10%;
+	
+}
+
+.testimonial{
+	
+	background-color:#f5f5f5;
+}
+/*blockquote*/
+
+blockquote {
+    font-family: Georgia, serif;
+    position: relative;
+    margin: 0.5em;
+  
+}
+
+blockquote:after {
+    font-family: Georgia, serif;
+    position: absolute;
+   /* display: block; don't use this, it raised the quote too high from the bottom - defeated line-height? */
+    float:left;
+    font-size:10em;
+    line-height: 1;
+    left:-2px;
+    bottom:-0.8em;
+    content: "\201D";
+	color:#cccccc;
+}
+blockquote footer {
+    padding: 0 2em 0 0;
+    text-align:right;
+}
+blockquote cite:before {
+    content: "\2013";
+}
+
+/* Bottom footer social icons */
+#bottom-footer .fa {
+    padding: 12px;
+    font-size: 15px;
+    width: 38px;
+    text-align: center;
+    text-decoration: none;
+    margin: 8px 3px;
+    border-radius: 50%;
+	margin-right:13%;
+	
+}
+	
+}
+
+@media screen and (min-width:576px) and (max-width:670px){
+	
+.right{
+	
+	padding-top:1.5%;
+	
+	
+}
+
+.headline{
+	
+	padding-top:5%;
+}
+header .main ul li{
+	
+
+display:block !important;
+
+	
+}
+
+header .logo{
+	
+	margin:5%;
+	padding-left:10%;
+}
+.menu-bar-btn{
+	margin-left:-132% !important;
+}
+
+.menu-bar-left-btn{
+	
+	padding:0 !important;
+	
+}	
+.sliding h1{
+	
+	position:absolute;
+	top:250px !important;
+	left:120px;
+	color:#2E2E2E;
+	font-size:250%;
+	
+}
+.sliding p{
+	
+	position:absolute;
+	top:370px;
+	left:120px;
+	color:#424242;
+	font-size:100%;
+	
+}
+.btn-defaul{
+	
+	
+	position:absolute;
+	top:450px;
+	left:120px;
+	border-radius:50px;
+	background-color:#DF0404;
+	border-color:#DF0404;
+	color:white;
+}
+
+.absolute1{
+	
+	position:absolute;
+	top:60px;
+	left:170px;
+}
+
+
+.absolute2{
+	
+	position:absolute;
+	top:200px;
+	padding-right:5%;
+	padding-left:5%;
+	
+}	
+
+/*plus*/
+
+.plus h1{
+	
+	position:static;
+	
+}
+
+.plus p{
+	
+	position:static;
+	
+}
+
+.plus button{
+	position:static;
+	
+	
+}
+.plus img{
+	padding-top:10%;
+	width:70%;
+}
+
+/*testimonial*/
+
+.testimonial{
+	
+	background-color:#f5f5f5;
+	padding-top:10%;
+}
+
+.testimonial img{
+	
+	width:80%;
+}
+
+.testimonial .dot{
+	
+	width:15%;
+	
+}
+
+.testimonial h1{
+	
+	position:static;
+	color:#666666;
+	font-size:190%;
+	padding-left:11%;
+	
+}
+
+.testimonial p{
+	
+	position:static;
+	padding-right:10%;
+	padding-left:10%;
+	font-size:90%;
+}
+
+.testimonial h6{
+	
+	
+	padding-left:10%;
+	
+}
+
+.testimonial{
+	
+	background-color:#f5f5f5;
+}
+/*blockquote*/
+
+blockquote {
+    font-family: Georgia, serif;
+    position: relative;
+    margin: 0.5em;
+  
+}
+
+blockquote:after {
+    font-family: Georgia, serif;
+    position: absolute;
+   /* display: block; don't use this, it raised the quote too high from the bottom - defeated line-height? */
+    float:left;
+    font-size:10em;
+    line-height: 1;
+    left:-2px;
+    bottom:-0.8em;
+    content: "\201D";
+	color:#cccccc;
+}
+blockquote footer {
+    padding: 0 2em 0 0;
+    text-align:right;
+}
+blockquote cite:before {
+    content: "\2013";
+}
+
+/* Bottom footer social icons */
+#bottom-footer .fa {
+    padding: 12px;
+    font-size: 15px;
+    width: 38px;
+    text-align: center;
+    text-decoration: none;
+    margin: 8px 3px;
+    border-radius: 50%;
+	margin-right:14%;
+	
+}
+
+#top-footer .block_one h5 {
+    margin-top: 8%;
+    font-size: 105%;
+    color: #ADADAD;
+}
+
+#top-footer .block_two h5 {
+    margin-top: 9%;
+    font-size: 105%;
+    color: #ADADAD;
+}
+	
+}
+
+@media screen and (min-width:671px) and (max-width:767px){
+	
+	
+.right{
+	
+	padding-top:1.5%;
+}	
+	
+header .main ul li{
+	
+
+display:block !important;
+
+	
+}
+
+header .logo{
+	
+	margin:5%;
+	padding-left:18%;
+}
+.menu-bar-btn{
+	margin-left:-182% !important;
+}
+
+.menu-bar-left-btn{
+	
+	padding:0 !important;
+	
+}	
+.sliding h1{
+	
+	position:absolute;
+	top:250px !important;
+	left:120px;
+	color:#2E2E2E;
+	font-size:250%;
+	
+}
+.sliding p{
+	
+	position:absolute;
+	top:370px;
+	left:120px;
+	color:#424242;
+	font-size:100%;
+	
+}
+.btn-defaul{
+	
+	
+	position:absolute;
+	top:450px;
+	left:120px;
+	border-radius:50px;
+	background-color:#DF0404;
+	border-color:#DF0404;
+	color:white;
+}
+
+.absolute1{
+	
+	position:absolute;
+	top:60px;
+	left:220px;
+}
+
+
+.absolute2{
+	
+	position:absolute;
+	top:240px;
+	padding-right:5%;
+	padding-left:5%;
+	
+}	
+
+/*plus*/
+
+.plus h1{
+	
+	position:static;
+	
+}
+
+.plus p{
+	
+	position:static;
+	
+}
+
+.plus button{
+	position:static;
+	
+	
+}
+.plus img{
+	padding-top:10%;
+	width:70%;
+}
+
+/*testimonial*/
+
+.testimonial{
+	
+	background-color:#f5f5f5;
+	padding-top:10%;
+}
+
+.testimonial img{
+	
+	width:80%;
+}
+
+.testimonial .dot{
+	
+	width:15%;
+	
+}
+
+.testimonial h1{
+	
+	position:static;
+	color:#666666;
+	font-size:190%;
+	padding-left:11%;
+	
+}
+
+.testimonial p{
+	
+	position:static;
+	padding-right:10%;
+	padding-left:10%;
+	font-size:90%;
+}
+
+.testimonial h6{
+	
+	
+	padding-left:10%;
+	
+}
+
+.testimonial{
+	
+	background-color:#f5f5f5;
+}
+/*blockquote*/
+
+blockquote {
+    font-family: Georgia, serif;
+    position: relative;
+    margin: 0.5em;
+  
+}
+
+blockquote:after {
+    font-family: Georgia, serif;
+    position: absolute;
+   /* display: block; don't use this, it raised the quote too high from the bottom - defeated line-height? */
+    float:left;
+    font-size:10em;
+    line-height: 1;
+    left:-10px;
+    bottom:-0.8em;
+    content: "\201D";
+	color:#cccccc;
+}
+blockquote footer {
+    padding: 0 2em 0 0;
+    text-align:right;
+}
+blockquote cite:before {
+    content: "\2013";
+}
+
+
+.headline{
+	
+	
+	padding-top:5%;
+}
+
+/* Bottom footer social icons */
+#bottom-footer .fa {
+    padding: 12px;
+    font-size: 15px;
+    width: 38px;
+    text-align: center;
+    text-decoration: none;
+    margin: 8px 3px;
+    border-radius: 50%;
+	margin-right:14.5%;
+	
+}
+
+#top-footer .block_one h5 {
+    margin-top: 8%;
+    font-size: 105%;
+    color: #ADADAD;
+}
+
+#top-footer .block_two h5 {
+    margin-top: 9%;
+    font-size: 105%;
+    color: #ADADAD;
+}
+	
+}
+
+@media screen and (min-width:620px) and (max-width:670px){
+	.menu-bar-btn{
+	margin-left:-158% !important;
+}
+.absolute1{
+	
+	position:absolute;
+	top:65px;
+	left:210px;
+}
+
+
+.absolute2{
+	
+	position:absolute;
+	top:240px;
+	padding-right:5%;
+	padding-left:5%;
+	
+}	
+
+.headline{
+	
+	padding-top:8%;
+}
+
+blockquote:after {
+    font-family: Georgia, serif;
+    position: absolute;
+   /* display: block; don't use this, it raised the quote too high from the bottom - defeated line-height? */
+    float:left;
+    font-size:10em;
+    line-height: 1;
+    left:-12px;
+    bottom:-0.8em;
+    content: "\201D";
+	color:#cccccc;
+}
+	
+}
+
+@media screen and (min-width:720px) and (max-width:767px){
+	.menu-bar-btn{
+	margin-left:-210% !important;
+}
+.absolute1{
+	
+	position:absolute;
+	top:75px;
+	left:240px;
+}
+
+
+.absolute2{
+	
+	position:absolute;
+	top:270px;
+	padding-right:5%;
+	padding-left:5%;
+	
+}	
+
+.headline{
+	
+	padding-top:8%;
+}
+
+blockquote:after {
+    font-family: Georgia, serif;
+    position: absolute;
+   /* display: block; don't use this, it raised the quote too high from the bottom - defeated line-height? */
+    float:left;
+    font-size:10em;
+    line-height: 1;
+    left:-12px;
+    bottom:-0.8em;
+    content: "\201D";
+	color:#cccccc;
+}
+	
+}
+
+
+/*md-style*/
+
+@media screen and (min-width:768px) and (max-width:1240px){
+
+
+.right-line{
+	
+	border-right:.5px solid black;
+	border-color:gray;
+	height:20px;
+	
+	
+}
+.gray{
+	
+	color:#2E2E2E;
+	
+}
+
+.li-gray{
+	
+	
+	color:gray;
+}
+.no-padding{
+	padding:0;
+	margin:0;
+}
+.top{
+	
+	padding-top:.5%;
+	padding-bottom:.5%;
+	
+}
+
+.more-top{
+	
+	padding-top:1%;
+}
+
+.more-bottom{
+	
+	padding-bottom:1%;
+	
+}
+
+.more-top-bottom{
+	
+	padding-top:2%;
+	padding-bottom:2%;
+	
+}
+
+.info{
+	position:absolute;
+	top:.1px;
+	z-index:999;
+	background-color:rgba(255,255,255,.6);
+	
+	
+}
+
+.less-left{
+	
+	padding-left:3%;
+	
+}
+.left{
+	
+	padding-left:4%;
+	
+}
+
+header{
+	
+	position:absolute;
+	top:70px;
+	left:0;
+	width:100%;
+	background-color:transparent;
+	z-index:11;
+}
+
+header .main-menu{}
+header img{
+	
+	
+	width:330% !important;
+}
+header .logo a{}
+
+header .main{}
+header .main ul{}
+header .main ul li{
+	
+	display:inline-block;
+	margin:1%;
+	
+}
+header .main ul li a{
+	text-decoration:none;
+	font-size:90% !important;
+	
+	
+}
+
+header .main ul li a:hover{
+	color:#373636;
+	
+}
+
+article{
+	
+	position:absolute;
+	top:0px;
+	left:0;
+	width:100%;
+	background-color:rgba(255,255,255,.6);
+	z-index:11;
+}
+
+
+article .information{}
+
+article .infor{}
+article .infor ul{}
+article .infor ul li{
+	
+	display:inline-block;
+	font-size:90%;
+	
+}
+article .infor ul li a{
+	color:#2E2E2E;
+	
+	
+}
+
+article .infor ul li a:hover{
+	text-decoration:none;
+	color:red;
+	
+	
+}
+
+.menu-bar-btn{
+	margin-top:-70%;
+}
+
+.menu-bar-left-btn{
+	
+	padding-left:609px;
+	
+}
+.right{
+	padding-right:5.5%;
+	padding-top:.5%;
+	
+	
+}
+
+
+.btn-danger{
+	
+	background-color:#DF0404;
+	border-color:#DF0404;
+	border-radius:50px;
+	
+}
+
+
+.bar2{
+    width: 35px;
+    height: 2px;
+    background-color: #333;
+    margin: 6px 0;
+    transition: 0.4s;
+}
+
+
+.bar1,.bar3 {
+    width: 25px;
+    height: 2px;
+    background-color: #333;
+    margin-left: 5px;
+    transition: 0.4s;
+	
+}
+
+.change .bar1 {
+    -webkit-transform: rotate(-45deg) translate(-6px, 6px) ;
+    transform: rotate(-45deg) translate(-6px, 3px) ;
+}
+
+.change .bar2 {opacity: 0;}
+
+.change .bar3 {
+    -webkit-transform: rotate(45deg) translate(-6px, -6px) ;
+    transform: rotate(45deg) translate(-6px, -6px) ;
+}
+
+
+.sliding h1{
+	
+	position:absolute;
+	top:250px;
+	left:150px;
+	color:#2E2E2E;
+	
+}
+.sliding p{
+	
+	position:absolute;
+	top:350px;
+	left:150px;
+	color:#424242;
+	
+}
+.btn-defaul{
+	
+	
+	position:absolute;
+	top:450px;
+	left:150px;
+	border-radius:50px;
+	background-color:#DF0404;
+	border-color:#DF0404;
+	color:white;
+}
+
+.sliding .overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    opacity: .5;
+}
+
+.sliding .slider-img{
+	
+	width:100%;
+	height:100vh;
+	min-height: 300px;
+	
+}
+.carousel-item {
+  height: 100vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+
+/*say*/
+
+.say h2{
+	
+	color:#2E2E2E;
+	font-size:165%;
+}
+
+.say .line{
+	
+	border-bottom: 2px solid #DF0404;
+	width:40%;
+	
+}
+
+
+/*review*/
+
+.review .dark-gray{
+	
+	background-color:#292929;
+	
+}
+
+.review .light-gray{
+	
+	background-color:#878c88;	
+}
+
+.review img{
+	
+	width:100%;
+	height:100%;
+}
+
+.review .dark-red{
+	
+	background-color:#DF0404;
+	
+}
+
+.review h5{
+	
+	color:white;
+	padding-top:14%;
+	padding-bottom:6%;
+	
+}
+
+.review h6{
+	
+	color:white;
+	padding-left:2%;
+	padding-right:2%;
+	padding-bottom:10%;
+	
+}
+
+.absolute1{
+	
+	position:absolute;
+	top:12px;
+	left:20px;
+}
+
+
+.absolute2{
+	
+	position:absolute;
+	top:94px;
+	
+}
+
+/*plus*/
+
+.plus h1{
+	
+	position:static;
+	font-size:165%;
+	
+}
+
+.plus p{
+	
+	position:static;
+	font-size:95%;
+	
+}
+
+.plus button{
+	position:static;
+	
+	
+}
+.plus img{
+	
+	width:80%;
+	padding-top:15%;
+}
+
+
+
+/*testimonial*/
+
+.testimonial{
+	
+	background-color:#f5f5f5;
+}
+
+.testimonial img{
+	
+	width:100%;
+	padding-top:25%;
+}
+
+.testimonial .dot{
+	
+	width:15%;
+	
+}
+
+.testimonial h1{
+	
+	position:static;
+	color:#666666;
+	
+}
+
+.testimonial p{
+	
+	position:static;
+	padding-right:5%;
+}
+
+.testimonial{
+	
+	background-color:#f5f5f5;
+}
+/*blockquote*/
+
+blockquote {
+    font-family: Georgia, serif;
+    position: relative;
+    margin: 0.5em;
+  
+}
+
+blockquote:after {
+    font-family: Georgia, serif;
+    position: absolute;
+   /* display: block; don't use this, it raised the quote too high from the bottom - defeated line-height? */
+    float:left;
+    font-size:10em;
+    line-height: 1;
+    left:-60px;
+    bottom:-0.8em;
+    content: "\201D";
+	color:#cccccc;
+}
+blockquote footer {
+    padding: 0 2em 0 0;
+    text-align:right;
+}
+blockquote cite:before {
+    content: "\2013";
+}
+
+/*carousol */
+
+
+
+.mySlides {display:none}
+.w3-left, .w3-right, .w3-badge {cursor:pointer}
+.w3-badge {height:13px;width:13px;padding:0}
+
+
+/*headline*/
+
+.headline{
+	
+	padding-right:1.5%;
+}
+.headline h6{
+	
+	color:gray;
+	padding-left:0%;
+	font-size:65%;
+	
+}
+
+.headline .btn-defaul{
+	position:static;
+	border-radius:50px;
+	background-color:#DF0404;
+	border-color:#DF0404;
+	color:white;
+	
+}
+
+/*table*/
+
+
+.table-scroll{
+	
+	overflow: scroll;
+    overflow-x: hidden!important;
+	height:270px;
+	width:100%;
+	
+}
+
+.table-height{
+	
+	
+	height:306px;
+	width:100%;
+	
+}
+
+.table .table-img{
+	
+	height:306px;
+	width:100%;
+	
+}
+.table .overlay-2 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    opacity: .5;
+}
+
+.table .dark-gray{
+	
+	background-color:#292929;
+	
+}
+.table .bg{
+	
+	background-color:#292929;
+	
+}
+
+.table h2{
+	
+	color:gray;
+	margin:8%;
+	font-size:300%;
+}
+
+
+.table h5{
+	
+	color:red;
+	padding-top:1%;
+	font-size:105%;
+}
+.table h6{
+	
+	color:white;
+	padding-bottom:5%;
+	font-size:95%;
+}
+
+.table .line{
+	
+	border-bottom:1px solid gray;
+	width:100%;
+}
+.table .left-right{
+	
+	padding-left:5%;
+	padding-right:5%;
+}
+
+.table .dark-gray .button-scroll {
+    margin-left: -30px;
+    margin-right: -30px;
+	
+}
+
+.table .dark-gray .button-scroll .btn {
+    border-radius: 0px; 
+}
+
+.table .dark-gray .button-scroll .left-btn {
+    width: 49%;
+}
+
+.table .dark-gray .button-scroll .right-btn {
+    width: 49%;
+    margin-left: 2%;
+}
+
+
+
+/*img-showcase*/
+
+
+#project {
+    margin-bottom: 30px;
+}
+
+#project .project_menu {
+    margin-top: 30px;
+}
+
+#project img{
+	
+	height:100%;
+	width:100%;
+}
+
+#project .project_menu a {
+    color: #878c88;
+    text-decoration: none;
+}
+
+#project .project_menu .button_project {
+    border-radius: 20px;
+    background-color: #DF0404;
+    border: none;
+}
+
+#project .project_img_thumb {
+    margin-top: 10px; 
+}
+
+
+
+/*top-footer*/
+
+#top-footer {
+    width: 100%;
+    height:100%;
+    padding: 40px 20px;
+    background-color: #212121;
+}
+
+#top-footer .block_one {
+    border-right: 1px solid #4d4d4d;
+}
+
+#top-footer .block_one img {
+    margin-top:2%; 
+}
+
+#top-footer .block_one h5 {
+    margin-top: 8%;
+    font-size: 95%;
+    color: #ADADAD;
+}
+
+#top-footer .block_one span {
+    color: #DF0404;
+}
+
+#top-footer .block_one ul li {
+    margin-top: 10%;
+    margin-left: -40px;
+    list-style-type: none;
+    line-height: 25px;
+    color: #ADADAD;
+}
+
+#top-footer .block_two {
+    border-right: 1px solid #4d4d4d;
+	padding-top:1.5%;
+}
+
+#top-footer .block_two h4 {
+    margin-top: 10px;
+    font-size: 140%;
+    color: #ADADAD;
+	padding-bottom:2%;
+	
+}
+
+#top-footer .block_two h5 {
+    margin-top: 9%;
+    font-size: 85%;
+    color: #ADADAD;
+}
+
+#top-footer .block_three {
+    border-right: 1px solid #4d4d4d;
+    margin-left: 20px;
+	padding-top:2%;
+}
+
+#top-footer .block_three h4 {
+    margin-top: 4%;
+    font-size: 140%;
+    color: #ADADAD;
+	padding-bottom:5%;
+}
+
+#top-footer .block_three ul li {
+    list-style-type: none;
+    margin-top: 8%;
+    margin-left: -40px;
+    font-size: 85%;
+    line-height: 20px;
+    color: #ADADAD;
+}
+
+#top-footer .block_four {
+    margin-right: 10px;
+    margin-left: 10px;
+	padding-top:1.8%;
+}
+
+#top-footer .block_four h4 {
+    margin-top: 9%;
+    font-size: 140%;
+    color: #ADADAD;
+	padding-bottom:10%;
+}
+
+#top-footer .block_four .form-control {
+    background-color:#333333;
+	color:#4d4d4d;
+	border:none;
+	width:140%;
+	font-size:90%;
+	
+}
+
+
+#top-footer .block_four .btn-primary {
+    border-radius:50px;
+	background-color:#DF0404;
+	border-color:#DF0404;
+	color:white;
+}
+
+
+/*bottom-footer*/
+
+#bottom-footer {
+    width: 100%;
+    height: 60px;
+    padding: 5px 5px;
+    background-color: #252324;
+}
+
+#bottom-footer .left_cp {
+    font-size: 12px;
+    padding-top: 15px;
+    color: #ADADAD;
+}
+
+/* Bottom footer social icons */
+#bottom-footer .fa {
+    padding: 12px;
+    font-size: 15px;
+    width: 38px;
+    text-align: center;
+    text-decoration: none;
+    margin: 8px 3px;
+    border-radius: 50%;
+}
+
+#bottom-footer .fa:hover {
+    opacity: 0.7;
+}
+
+#bottom-footer .fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+#bottom-footer .fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+#bottom-footer .fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+#bottom-footer .fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+#bottom-footer .fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+#bottom-footer .fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+#bottom-footer .fa-pinterest {
+  background: #cb2027;
+  color: white;
+}
+
+#bottom-footer .fa-snapchat-ghost {
+  background: #fffc00;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+#bottom-footer .fa-skype {
+  background: #00aff0;
+  color: white;
+}
+
+#bottom-footer .fa-android {
+  background: #a4c639;
+  color: white;
+}
+
+#bottom-footer .fa-dribbble {
+  background: #ea4c89;
+  color: white;
+}
+
+#bottom-footer .fa-vimeo {
+  background: #45bbff;
+  color: white;
+}
+
+#bottom-footer .fa-tumblr {
+  background: #2c4762;
+  color: white;
+}
+
+#bottom-footer .fa-vine {
+  background: #00b489;
+  color: white;
+}
+
+#bottom-footer .fa-foursquare {
+  background: #45bbff;
+  color: white;
+}
+
+#bottom-footer .fa-stumbleupon {
+  background: #eb4924;
+  color: white;
+}
+
+#bottom-footer .fa-flickr {
+  background: #f40083;
+  color: white;
+}
+
+#bottom-footer .fa-yahoo {
+  background: #430297;
+  color: white;
+}
+
+#bottom-footer .fa-soundcloud {
+  background: #ff5500;
+  color: white;
+}
+
+#bottom-footer .fa-reddit {
+  background: #ff5700;
+  color: white;
+}
+
+#bottom-footer .fa-rss {
+  background: #ff6600;
+  color: white;
+}
+
+
+
+
+
+	
+}
+
+@media screen and (min-width:800px) and (max-width:850px){
+	
+	
+header img{
+	
+	
+	width:310% !important;
+}
+.absolute1{
+	
+	position:absolute;
+	top:12px;
+	left:25px;
+}
+
+
+.absolute2{
+	
+	position:absolute;
+	top:94px;
+	
+}
+	
+.headline h6{
+	
+	color:gray;
+	padding-left:0%;
+	font-size:69%;
+	
+}	
+
+}
+
+@media screen and (min-width:851px) and (max-width:900px){
+	
+	
+header img{
+	
+	
+	width:290% !important;
+}
+.absolute1{
+	
+	position:absolute;
+	top:12px;
+	left:35px;
+}
+
+
+.absolute2{
+	
+	position:absolute;
+	top:100px;
+	
+}
+	
+.headline h6{
+	
+	color:gray;
+	padding-left:0%;
+	font-size:75%;
+	
+}	
+
+}
+
+@media screen and (min-width:901px) and (max-width:950px){
+	
+	
+header img{
+	
+	
+	width:270% !important;
+}
+.absolute1{
+	
+	position:absolute;
+	top:15px;
+	left:45px;
+}
+
+
+.absolute2{
+	
+	position:absolute;
+	top:106px;
+	
+}
+	
+.headline h6{
+	
+	color:gray;
+	padding-left:0%;
+	font-size:80%;
+	
+}	
+
+}
+
+@media screen and (min-width:951px) and (max-width:1000px){
+	
+	
+header img{
+	
+	
+	width:250% !important;
+}
+.absolute1{
+	
+	position:absolute;
+	top:16px;
+	left:45px;
+}
+
+
+.absolute2{
+	
+	position:absolute;
+	top:108px;
+	
+}
+	
+.headline h6{
+	
+	color:gray;
+	padding-left:0%;
+	font-size:85%;
+	
+}	
+
+}
+
+@media screen and (min-width:1001px) and (max-width:1050px){
+	
+	
+header img{
+	
+	
+	width:240% !important;
+}
+.absolute1{
+	
+	position:absolute;
+	top:18px;
+	left:60px;
+}
+
+
+.absolute2{
+	
+	position:absolute;
+	top:112px;
+	
+}
+	
+.headline h6{
+	
+	color:gray;
+	padding-left:0%;
+	font-size:90%;
+	
+}	
+
+}
+
+@media screen and (min-width:1051px) and (max-width:1100px){
+	
+	
+header img{
+	
+	
+	width:230% !important;
+}
+.absolute1{
+	
+	position:absolute;
+	top:18px;
+	left:70px;
+}
+
+
+.absolute2{
+	
+	position:absolute;
+	top:117px;
+	
+}
+	
+.headline h6{
+	
+	color:gray;
+	padding-left:0%;
+	font-size:95%;
+	
+}	
+
+}
+
+@media screen and (min-width:1101px) and (max-width:1150px){
+	
+	
+header img{
+	
+	
+	width:220% !important;
+}
+.absolute1{
+	
+	position:absolute;
+	top:20px;
+	left:80px;
+}
+
+
+.absolute2{
+	
+	position:absolute;
+	top:122px;
+	
+}
+	
+.headline h6{
+	
+	color:gray;
+	padding-left:0%;
+	font-size:100%;
+	
+}	
+
+.headline{
+	
+	padding-right:0% !important;
+}
+
+}
+
+@media screen and (min-width:1151px) and (max-width:1200px){
+	
+.right{
+	
+	padding-right:4% !important;
+	
+}
+header img{
+	
+	
+	width:210% !important;
+}
+.absolute1{
+	
+	position:absolute;
+	top:21px;
+	left:90px;
+}
+
+
+.absolute2{
+	
+	position:absolute;
+	top:126px;
+	
+}
+	
+.headline h6{
+	
+	color:gray;
+	padding-left:0%;
+	font-size:110%;
+	
+}	
+
+.headline{
+	
+	padding-right:0% !important;
+}
+
+}
+
+@media screen and (min-width:1201px) and (max-width:1240px){
+	
+.right{
+	
+	padding-right:3% !important;
+	
+}
+header img{
+	
+	
+	width:200% !important;
+}
+.absolute1{
+	
+	position:absolute;
+	top:22px;
+	left:100px;
+}
+
+
+.absolute2{
+	
+	position:absolute;
+	top:132px;
+	
+}
+	
+.headline h6{
+	
+	color:gray;
+	padding-left:0%;
+	font-size:110%;
+	
+}	
+
+.headline{
+	
+	padding-right:0% !important;
+}
+
+}
+
+@media screen and (min-width:992px) and (max-width:1240px){
+	
+	
+	
+.right{
+	
+	padding-right:4.5%;
+	
+}	
+.plus img{
+	
+	width:70%;
+	padding-top:5%;
+}
+
+.testimonial img{
+	
+	width:90%;
+	padding-top:10%;
+}
+
+}
+
+@media screen and (min-width:375px) and (max-width:450px){
+	
+	
+header img{
+	
+	padding-left:10%;
+	
+}
+	
+.absolute1{
+	
+	position:absolute;
+	top:12px;
+	left:75px;
+}
+
+
+.absolute2{
+	
+	position:absolute;
+	top:110px;
+	
+}
+
+/* Bottom footer social icons */
+#bottom-footer .fa {
+    padding: 12px;
+    font-size: 15px;
+    width: 38px;
+    text-align: center;
+    text-decoration: none;
+    margin: 8px 3px;
+    border-radius: 50%;
+	margin-right:9%;
+	
+}
+
+}
+
+@media screen and (min-width:412px) and (max-width:450px){
+	
+
+header img{
+	
+	padding-left:15%;
+	
+}
+	
+.absolute1{
+	
+	position:absolute;
+	top:14px;
+	left:95px;
+}
+
+
+.absolute2{
+	
+	position:absolute;
+	top:130px;
+	
+}
+
+/* Bottom footer social icons */
+#bottom-footer .fa {
+    padding: 12px;
+    font-size: 15px;
+    width: 38px;
+    text-align: center;
+    text-decoration: none;
+    margin: 8px 3px;
+    border-radius: 50%;
+	margin-right:11%;
+	
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
